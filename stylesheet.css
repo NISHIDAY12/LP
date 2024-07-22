@@ -1,0 +1,300 @@
+body {
+    font-family:'Inter';
+    font-weight: 300;
+    background-color: #FFF6FD;
+    overflow-x: hidden;
+   
+}
+.image18 {
+    position: absolute;
+    top: 0;
+    height: auto;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+   position: sticky;
+   color: #4B4A4A;
+   font-family: 'Short Stack';
+   font-weight: 600;
+   font-size: 55px;
+   margin-top: 722px;
+   margin-left: auto;
+}
+.text1 {
+    text-align: center;
+    margin-top: 59px;
+    font-size: 20px;
+    color: #000;
+}
+.text2 {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 79px;
+    margin-left: 40px;
+    width: 340px;
+    color: #000;
+}
+.text3 {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 132px;
+    margin-left: 40px;
+    color: #000;
+    transform: rotate(-5deg);
+}
+.text4 {
+    text-align: left;
+    margin-top: -262px;
+    margin-left: 900px;
+    font-size: 20px;
+    color: #000; 
+}
+.text5 {
+    text-align: left;
+    font-size: 20px;
+    margin-top: 144px;
+    margin-left: 900px;
+    color: #000;
+    transform: rotate(5deg);
+}
+.image {
+    position: relative;
+    margin-top: -380px;
+    margin-left: 390px;
+    width: 494px;
+    height: 552px;
+}
+.image1 {
+    position: relative;
+    margin-top: 50px;
+    margin-left: 230px;
+    width: 841px;
+    height: 133px;
+}
+.image2 {
+    margin-top: -170px;
+    width: 1458px;
+    height: 1600px;
+}
+.Descriptionofitem h2 {
+    position: relative;
+    top: -1270px;
+    left: 80px;
+    font-size: 38px;
+    font-family: 'Short Stack';
+    font-weight: 500;
+}
+.text6 {
+    position: relative;
+    text-align: left;
+    line-height: 35px;
+    top: -1270px;
+    left: 80px;
+    font-size: 20px;
+}
+.image3 {
+    position: relative;
+    top: -1600px;
+    left: 330px;
+    width: 436px; 
+}
+.image4 {
+    position: relative;
+    top: -1590px;
+    left: 383px;
+    width: 378px;
+}
+.image5 {
+    position: relative;
+    top: -1620px;
+    left: -720px;
+    width: 144px;
+    height: 127px;
+}
+.Priceimage1 {
+    position: relative;
+    top: -1530px;
+    left: 95px;
+    width: 1122px;
+    height: 529px;
+}
+.ProductFeatures h2 {
+    position: relative;
+    font-family: 'Short Stack';
+    font-size: 55px;
+    font-weight: 400;
+    text-align: center;
+    top: -1470px;
+    color: #3a3a3a;  
+}
+.ProductFeatures h2 span {
+    color: #DC494A;
+}
+.title1 {
+    position: relative;
+    width: 481px;
+    height: 110px;
+    top: -1400px;
+    left: 30px;
+}
+.image6 {
+    float: left;
+    position: relative;
+    top: -1470px;
+    left: 25px;
+    letter-spacing: 10px;
+    margin: 0 30px;
+}
+.name1 {
+    position: relative;
+    top: -1480px;
+    left: 50px;
+    text-align: left;
+    font-size: 20px;
+}
+.name2 {
+    position: relative;
+    top: -1380px;
+    left: 227px;
+    text-align: left;
+    font-size: 20px;
+}
+.name3 {
+    position: relative;
+    top: -1430px;
+    left: 390px;
+    text-align: left;
+    font-size: 20px;
+}
+.text7 {
+    position: relative;
+    top: -1330px;
+    left: -430px;
+    font-size: 16px;
+}
+.title2 {
+    position: relative;
+    width: 481px;
+    height: 110px;
+    top: -1795px;
+    left: 700px;   
+}
+.name4 {
+    position: relative;
+    top: -1770px;
+    left: 850px;
+    font-size: 20px;
+}
+.image7 {
+    position: relative;
+    top: -1760px;
+    left: 880px;
+}
+.text8 {
+   position: relative;
+   top: -1720px;
+   left: 700px;
+}
+.title3 {
+   position: relative;
+   top: -1780px;
+   left: 700px;
+}
+.name5 {
+   position: relative;
+   top: -1580px;
+   left: 900px;
+   font-size: 20px;
+}
+.image8 {
+   position: relative;
+   top: -1400px;
+   left: 880px;
+}
+.text9 {
+   position: relative;
+   top: -1570px;
+   left: 700px;
+}
+.image9 {
+   position: relative;
+   top: -2050px;
+   left: 0px;
+   width: 672px;
+   height: 628px;
+   transform: rotate(-1.94deg);
+}
+.customersvoice h2 {
+    position: relative;
+   text-align: center;
+   top: -3630px;
+   font-family: 'Short Stack';
+   font-size: 55px;
+   font-weight: 400;
+}
+.image15 {
+    position: relative;
+    top: -3520px;
+    bottom: 0px;
+    width: 1432px;
+    height: 1520px;
+    opacity: 0.6;
+    z-index: 2;
+}
+.image10 {
+    position: relative;
+    top: -3840px;
+    left: 200px;
+    width: 485px;
+    height: 343px;
+}
+.image11 {
+    position: relative;
+    top: -3450px;
+    left: 80px;
+    width: 677px;
+    height: 576px;
+}
+.image12 {
+    position: relative;
+    top: -3630px;
+    left: 660px;
+    width: 485px;
+    height: 343px;
+}
+.image13 {
+    position: relative;
+    top: -3330px;
+    left: -450px;
+    width: 677px;
+    height: 576px;
+    z-index: 1;
+}
+.image14 {
+    position: relative;
+    top: -5400px;
+    width: 1450px;
+    height: 1586px;
+    opacity: 0.6;
+    z-index: -2;
+}
+.Priceimage2 {
+    position: relative;
+    top: -3220px;
+    left: 100px;
+    margin-bottom: 0px;
+}
+.image16 {
+    position: relative;
+    margin-top: -5600px;
+    margin-bottom: 7000px;
+    width: 1458px;
+    height: 1548px;
+    z-index: -3;
+    flex: 1 1 auto;
+}
+.image17 {
+    position: absolute;
+    margin-top: -7700px;
+}
