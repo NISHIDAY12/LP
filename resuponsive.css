@@ -107,11 +107,7 @@
         background-color: #FFF6FD;
         overflow-x: hidden;
     }
-    .image18 {
-        width: 100%;
-        height: auto;
-    }
-    .image17 {
+   .image17 .image18 {
         width: 100%;
         height: auto;
     }
