@@ -19,14 +19,22 @@
     }
 }
 @media(max-width: 768px) {
-    .image18.image17 {
+    .image18 {
+        width: 100%;
+        height: auto;
+    }
+    .image17 {
         width: 100%;
         height: auto;
     }
     h1 {
+        text-align: center;
         font-family: 'Short Stack';
         font-size: 45px;
         font-weight: 600;
+    }
+    .text1 .text2 .text3 .text4 .text5 {
+        font-size: 18px;
     }
     .main p {
        font-family: 'Inter';
@@ -41,16 +49,73 @@
         width: 408px;
         height: 443px;
     }
+    .image1 {
+        width: 794px;
+        height: 137px;
+    }
+    .image3 {
+        width: 338px;
+        height: 167px;
+    }
+    .image4 {
+        width: 341px;
+        height: 491px;
+    }
+    .image5 {
+        width: 107px;
+        height: 101px;
+    }
+    .Priceimage1 .Priceimage2 {
+        width: 883px;
+        height: 553px;
+    }
+    .ProductFeatures h2 {
+        font-size: 45px;
+    }
+    .name3 .name4 .name5 {
+        font-size: 18px;
+    }
+    .titl1 .titl2 .titl3 {
+        width: 418px;
+        height: 97px;
+    }
+    .text7 .text8 .text9 {
+        font-size: 16px;
+    }
+    .image6 .image7 .image8 {
+        width: 80px;
+        height: 80px;
+    }
+    .image9 {
+        width:505px;
+        height: 504px;
+    }
+    .image10 .image12 {
+        width: 485px;
+        height: 343px;
+    }
+    .image11 .image13 {
+        width: 460px;
+        height: 576px;
+    }
 }
 @media(max-width: 375px) {
-    .image18.image17 {
+    .image18 {
         width: 100%;
         height: auto;
     }
-    .Awarenes h1 {
+    .image17 {
+        width: 100%;
+        height: auto;
+    }
+    h1 {
+        text-align: center;
         font-family: 'Short Stack';
         font-size: 18px;
         font-weight: 600;
+    }
+    .text1 .text2 .text3 .text4 .text5 {
+        font-size: 8px;
     }
     .main p {
        font-family: 'Inter';
@@ -64,5 +129,58 @@
     .image {
         width: 132px;
         height: 158px;
+    }
+    .image1 {
+        width: 329px;
+        height: 39px;
+    }
+    .image2 {
+        width: 119px;
+        height: 235px;
+    }
+    .image3 {
+        width: 144px;
+        height: 74px;
+    }
+    .image4 {
+        width: 119px;
+        height: 235px;
+    }
+    .image5 {
+        width: 48px;
+        height: 43px;
+    }
+    .Priceimage1 .Priceimage2 {
+        width: 347px;
+        height: 187px;
+    }
+    .ProductFeatures h2 {
+        font-size: 18px;
+    }
+    .name3 .name4 .name5 {
+        font-size: 9px;
+    }
+    .titl1 .titl2 .titl3 {
+        width: 161px;
+        height: 41px;
+    }
+    .text7 .text8 .text9 {
+        font-size: 8px;
+    }
+    .image6 .image7 .image8 {
+        width: 40px;
+        height: 40px;
+    }
+    .image9 {
+        width: 195px;
+        height: 194px;
+    }
+    .image10 .image12 {
+        width: 220px;
+        height: 122px;
+    }
+    .image11 .image13 {
+        width: 184px;
+        height: 226px;
     }
 }
