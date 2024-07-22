@@ -1,5 +1,5 @@
-@media(max-width: 1440px) {
-    header {
+@media(max-width: 1024px) {
+    .image18.image17 {
         width: 100%;
         height: auto;
     }
@@ -17,10 +17,9 @@
         font-size: 55px;
         font-weight: 500;
     }
-
 }
-@media(max-width: 1024px) {
-    header {
+@media(max-width: 768px) {
+    .image18.image17 {
         width: 100%;
         height: auto;
     }
@@ -38,13 +37,17 @@
         font-size: 30px;
         font-weight: 500;
     }
+    .image {
+        width: 408px;
+        height: 443px;
+    }
 }
-@media(max-width: 393px) {
-    header {
+@media(max-width: 375px) {
+    .image18.image17 {
         width: 100%;
         height: auto;
     }
-    h1 {
+    .Awarenes h1 {
         font-family: 'Short Stack';
         font-size: 18px;
         font-weight: 600;
@@ -57,5 +60,9 @@
         font-family: 'Short Stack';
         font-size: 18px;
         font-weight: 500;
+    }
+    .image {
+        width: 132px;
+        height: 158px;
     }
 }
