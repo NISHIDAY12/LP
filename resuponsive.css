@@ -108,7 +108,8 @@
         width: 100%;
         height: auto;
     }
-    h1 {
+  .Awareness h1 {
+        position: sticky;
         text-align: center;
         font-family: 'Short Stack';
         font-size: 18px;
