@@ -10,6 +10,7 @@ image {
         height: auto;
     }
     h1 {
+        text-align: center;
         font-family: 'Short Stack';
         font-size: 55px;
         font-weight: 600;
@@ -62,6 +63,10 @@ image {
         width: 794px;
         height: 137px;
     }
+    .image2 {
+        width: 119px;
+        height: 235px;
+    }
     .image3 {
         width: 338px;
         height: 167px;
@@ -91,7 +96,7 @@ image {
     .text7 .text8 .text9 {
         font-size: 16px;
     }
-    .image6 .image7 .image8 {
+    .image6.image19.image20 .image7 .image8 {
         width: 80px;
         height: 80px;
     }
@@ -146,27 +151,53 @@ image {
         font-size: 18px;
         font-weight: 500;
     }
+    .Description h2 {
+        position: relative;
+    font-family: 'Short Stack';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 140px;
+    margin-left: -200px;
+    color: #3a3a3a;  
+    }
     .image {
         width: 132px;
         height: 158px;
     }
     .image1 {
+        position: relative;
+        margin-top: 50px;
+        margin-left: 200px;
         width: 329px;
         height: 39px;
     }
     .image2 {
+        margin-top: -170px;
         width: 119px;
         height: 235px;
     }
     .image3 {
+        position: relative;
+        margin-top: 22px;
+        margin-left: 330px;
+        padding-left: -62px;
         width: 144px;
         height: 74px;
     }
     .image4 {
+        position: relative;
+        margin-top: -1655px;
+        margin-left: 850px;
+        margin-right: 199px;
         width: 119px;
         height: 235px;
     }
     .image5 {
+        position: relative;
+        margin-top: -1500px;
+        margin-bottom: 59px;
+        margin-left: 110px;
         width: 48px;
         height: 43px;
     }
@@ -187,7 +218,7 @@ image {
     .text7 .text8 .text9 {
         font-size: 8px;
     }
-    .image6 .image7 .image8 {
+    .image6.image19.image20 .image7 .image8 {
         width: 40px;
         height: 40px;
     }
