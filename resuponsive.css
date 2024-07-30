@@ -1,4 +1,10 @@
+image {
+    width: 100%;
+}
 @media(max-width: 1024px) {
+    image {
+        max-width: 1024px;
+    }
     .image18.image17 {
         width: 100%;
         height: auto;
@@ -18,7 +24,10 @@
         font-weight: 500;
     }
 }
-@media(max-width: 768px) {
+@media(max-width: 480px) {
+    image {
+       max-width: 480px;
+    }
     .image18 {
         width: 100%;
         height: auto;
@@ -100,6 +109,9 @@
     }
 }
 @media(max-width: 375px) {
+    image {
+        max-width: 375px;
+    }
     body {
         font-family:'Inter';
         font-weight: 300;
@@ -107,11 +119,15 @@
         background-color: #FFF6FD;
         overflow-x: hidden;
     }
-   .image17.image18 {
+    .image18 {
         width: 100%;
         height: auto;
     }
-  .Awareness h1 {
+    .image17 {
+        width: 100%;
+        height: auto;
+    }
+    h1 {
         position: sticky;
         text-align: center;
         font-family: 'Short Stack';
