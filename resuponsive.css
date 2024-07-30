@@ -1,6 +1,7 @@
 image {
     width: 100%;
     border: none;
+    height: auto;
 }
 @media(max-width: 1024px) {
     image {
