@@ -1,5 +1,6 @@
 image {
     width: 100%;
+    border: none;
 }
 @media(max-width: 1024px) {
     image {
@@ -8,6 +9,15 @@ image {
     .image18.image17 {
         width: 100%;
         height: auto;
+    }
+    .image15 {
+        position: absolute;
+        width: 1432px;
+        height: 1519px;
+        margin-top: -1000px;
+        margin-left: -1500px;
+        opacity: 2;
+        z-index: 1;
     }
     h1 {
         text-align: center;
@@ -103,6 +113,15 @@ image {
     .image9 {
         width:505px;
         height: 504px;
+    }
+    .image15 {
+        position: absolute;
+        width: 1432px;
+        height: 1519px;
+        margin-top: -1000px;
+        margin-left: -1500px;
+        opacity: 2;
+        z-index: 1;
     }
     .image10 .image12 {
         width: 485px;
