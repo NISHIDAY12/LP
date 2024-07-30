@@ -7,6 +7,16 @@ image {
     image {
         max-width: 1024px;
     }
+    .image {
+        display: block;
+        position: relative;
+        margin-top: -493px;
+        margin-left: 400px;
+        margin-right: 440px;
+        padding-top: 31px;
+        width: 494px;
+        height: 552px;
+    }
     .image18.image17 {
         width: 100%;
         height: auto;
@@ -40,6 +50,16 @@ image {
     image {
        max-width: 480px;
     }
+    .image {
+        display: block;
+        position: relative;
+        margin-top: -493px;
+        margin-left: 400px;
+        margin-right: 440px;
+        padding-top: 31px;
+        width: 494px;
+        height: 552px;
+    }
     .image18 {
         width: 100%;
         height: auto;
@@ -66,33 +86,64 @@ image {
         font-size: 30px;
         font-weight: 500;
     }
+    .Description h2 {
+        position: relative;
+    font-family: 'Short Stack';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 140px;
+    margin-left: -200px;
+    color: #3a3a3a;  
+    }
     .image {
         width: 408px;
         height: 443px;
     }
     .image1 {
-        width: 794px;
-        height: 137px;
+        position: relative;
+        margin-top: 50px;
+        margin-left: 200px;
+        width: 841px;
+        height: 133px;
+        z-index: 1;
     }
     .image2 {
-        width: 119px;
-        height: 235px;
+        position: relative;
+        margin-top: -170px;
+        width: 1458px;
+        height: 1455px;
+        z-index: 0;
     }
     .image3 {
-        width: 338px;
-        height: 167px;
+        position: relative;
+        margin-top: 22px;
+        margin-left: 330px;
+        padding-left: -62px;
+        width: 436px; 
     }
     .image4 {
-        width: 341px;
-        height: 491px;
+        position: relative;
+        margin-top: -1655px;
+        margin-left: 850px;
+        margin-right: 199px;
+        width: 378px;
     }
     .image5 {
-        width: 107px;
-        height: 101px;
+        position: relative;
+        margin-top: -1500px;
+        margin-bottom: 59px;
+        margin-left: 110px;
+        width: 144px;
+        height: 127px;
     }
-    .Priceimage1 .Priceimage2 {
-        width: 883px;
-        height: 553px;
+    .Priceimage1 {
+        position: relative;
+        margin-top: 42px;
+        margin-left: 90px;
+        margin-right: 162px;
+        width: 1122px;
+        height: 529px;
     }
     .ProductFeatures h2 {
         font-size: 45px;
@@ -136,6 +187,16 @@ image {
 @media(max-width: 375px) {
     image {
         max-width: 375px;
+    }
+    .image {
+        display: block;
+        position: relative;
+        margin-top: -493px;
+        margin-left: 400px;
+        margin-right: 440px;
+        padding-top: 31px;
+        width: 494px;
+        height: 552px;
     }
     body {
         font-family:'Inter';
@@ -189,13 +250,16 @@ image {
         position: relative;
         margin-top: 50px;
         margin-left: 200px;
-        width: 329px;
-        height: 39px;
+        width: 841px;
+        height: 133px;
+        z-index: 1;
     }
     .image2 {
+        position: relative;
         margin-top: -170px;
-        width: 119px;
-        height: 235px;
+        width: 1458px;
+        height: 1455px;
+        z-index: 0;
     }
     .image3 {
         position: relative;
@@ -224,6 +288,10 @@ image {
     .Priceimage1 .Priceimage2 {
         width: 347px;
         height: 187px;
+        position: relative;
+        margin-top: 42px;
+        margin-left: 90px;
+        margin-right: 162px;
     }
     .ProductFeatures h2 {
         font-size: 18px;
