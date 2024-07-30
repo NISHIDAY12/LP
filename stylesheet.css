@@ -87,7 +87,7 @@ h1 {
     height: 1455px;
     z-index: 0;
 }
-h2 {
+.Description h2 {
     position: relative;
     margin-top: -1300px;
     margin-left: 80px;
