@@ -1,29 +1,33 @@
 body {
+    width: 1440px;
     font-family:'Inter';
     font-weight: 300;
     background-color: #FFF6FD;
-    overflow-x: hidden;
-   
+    overflow-x: hidden; 
 }
 .image18 {
-    position: absolute;
-    top: 0;
-    height: auto;
+    position: relative;
+    display: block;
+    top: 0px;
+    height: 650px;
     width: 100%;
 }
 h1 {
-    text-align: center;
-   position: sticky;
    color: #4B4A4A;
    font-family: 'Short Stack';
    font-weight: 600;
    font-size: 55px;
-   margin-top: 722px;
-   margin-left: auto;
+   width: 667px;
+   height: 71px;
+   margin-top: 72px;
+   margin-left: 300px;
+   margin-right: 387px;
 }
 .text1 {
     text-align: center;
+    width: 260px;
     margin-top: 59px;
+    margin-left: 500px;
     font-size: 20px;
     color: #000;
 }
@@ -31,7 +35,7 @@ h1 {
     text-align: left;
     font-size: 20px;
     margin-top: 79px;
-    margin-left: 40px;
+    margin-left: 50px;
     width: 340px;
     color: #000;
 }
@@ -39,7 +43,7 @@ h1 {
     text-align: left;
     font-size: 20px;
     margin-top: 132px;
-    margin-left: 40px;
+    margin-left: 50px;
     color: #000;
     transform: rotate(-5deg);
 }
@@ -53,34 +57,38 @@ h1 {
 .text5 {
     text-align: left;
     font-size: 20px;
-    margin-top: 144px;
+    margin-top: 160px;
     margin-left: 900px;
     color: #000;
     transform: rotate(5deg);
 }
 .image {
+    display: block;
     position: relative;
-    margin-top: -380px;
-    margin-left: 390px;
+    margin-top: -493px;
+    margin-left: 400px;
+    margin-right: 440px;
+    padding-top: 31px;
     width: 494px;
     height: 552px;
 }
 .image1 {
     position: relative;
     margin-top: 50px;
-    margin-left: 230px;
+    margin-left: 200px;
     width: 841px;
     height: 133px;
 }
 .image2 {
     margin-top: -170px;
     width: 1458px;
-    height: 1600px;
+    height: 1455px;
 }
-.Descriptionofitem h2 {
+.Description h2 {
     position: relative;
-    top: -1270px;
-    left: 80px;
+    margin-top: -1300px;
+    margin-left: 80px;
+    padding-top: 130px;
     font-size: 38px;
     font-family: 'Short Stack';
     font-weight: 500;
@@ -89,33 +97,37 @@ h1 {
     position: relative;
     text-align: left;
     line-height: 35px;
-    top: -1270px;
-    left: 80px;
+    margin-top: 38px;
+    margin-left: 80px;
     font-size: 20px;
 }
 .image3 {
     position: relative;
-    top: -1600px;
-    left: 330px;
+    margin-top: 22px;
+    margin-left: 330px;
+    padding-left: -62px;
     width: 436px; 
 }
 .image4 {
     position: relative;
-    top: -1590px;
-    left: 383px;
+    margin-top: -1655px;
+    margin-left: 850px;
+    margin-right: 199px;
     width: 378px;
 }
 .image5 {
     position: relative;
-    top: -1620px;
-    left: -720px;
+    margin-top: -1500px;
+    margin-bottom: 59px;
+    margin-left: 110px;
     width: 144px;
     height: 127px;
 }
 .Priceimage1 {
     position: relative;
-    top: -1530px;
-    left: 95px;
+    margin-top: 42px;
+    margin-left: 90px;
+    margin-right: 162px;
     width: 1122px;
     height: 529px;
 }
@@ -125,7 +137,8 @@ h1 {
     font-size: 55px;
     font-weight: 400;
     text-align: center;
-    top: -1470px;
+    margin-top: 140px;
+    margin-left: -200px;
     color: #3a3a3a;  
 }
 .ProductFeatures h2 span {
@@ -135,166 +148,231 @@ h1 {
     position: relative;
     width: 481px;
     height: 110px;
-    top: -1400px;
-    left: 30px;
+    margin-top: 125px;
+    margin-left: 60px;
+    margin-right: 804px;
+}
+.image20 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    float: left;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 410px;
 }
 .image6 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
     float: left;
-    position: relative;
-    top: -1470px;
-    left: 25px;
-    letter-spacing: 10px;
-    margin: 0 30px;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 90px;
+}
+.image19 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    float: left;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 250px;
 }
 .name1 {
-    position: relative;
-    top: -1480px;
-    left: 50px;
+    float: left;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 80px;
+    width: 120px;
+    height: 24px;
     text-align: left;
     font-size: 20px;
 }
 .name2 {
-    position: relative;
-    top: -1380px;
-    left: 227px;
-    text-align: left;
+    float: left;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 255px;
+    width: 100px;
+    height: 24px;
+    text-align: center;
     font-size: 20px;
 }
 .name3 {
-    position: relative;
-    top: -1430px;
-    left: 390px;
+    float: left;
+    position: absolute;
+    margin-top: 47px;
+    margin-left: 420px;
+    margin-right: 847px;
+    width: 800px;
+    height: 24px;
     text-align: left;
     font-size: 20px;
 }
 .text7 {
-    position: relative;
-    top: -1330px;
-    left: -430px;
+    position: absolute;
+    margin-top: 237px;
+    margin-left: 70px;
     font-size: 16px;
 }
 .title2 {
     position: relative;
     width: 481px;
     height: 110px;
-    top: -1795px;
-    left: 700px;   
+    margin-top: -112px;
+    margin-left: 700px;
+    margin-bottom: 360px;
+    margin-right: 199px;
+    padding-left: -129px;  
 }
 .name4 {
-    position: relative;
-    top: -1770px;
-    left: 850px;
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    margin-top: -310px;
+    margin-left: 870px;
+    margin-right: 200px;
     font-size: 20px;
 }
 .image7 {
-    position: relative;
-    top: -1760px;
-    left: 880px;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 105px;
+    margin-left: -480px;
 }
 .text8 {
-   position: relative;
-   top: -1720px;
-   left: 700px;
+    float: right;
+   position: absolute;
+   width: 464px;
+   height: 57px;
+   margin-top: -95px;
+   margin-left: 700px;
+   margin-right: 199px;
+   font-size: 16px;
 }
 .title3 {
    position: relative;
-   top: -1780px;
-   left: 700px;
+   width: 481px;
+   height: 110px;
+   margin-top: 200px;
+   margin-left: 700px;
+   margin-right: 199px;
 }
 .name5 {
-   position: relative;
-   top: -1580px;
-   left: 900px;
+    float: right;
+   position: absolute;
+   width: 60px;
+   height: 24px;
+   margin-top: 371px;
+   margin-left: 915px;
+   margin-right: 409px;
    font-size: 20px;
 }
 .image8 {
-   position: relative;
-   top: -1400px;
-   left: 880px;
+   position: absolute;
+   width: 100px;
+   height: 100px;
+   margin-top: 785px;
+   margin-left: -480px;
 }
 .text9 {
-   position: relative;
-   top: -1570px;
-   left: 700px;
+   position: absolute;
+   width: 526px;
+   height: 57px;
+   font-size: 16px;
+   margin-top: 260px;
+   margin-left: 700px;
+   margin-right: 176px;
 }
 .image9 {
-   position: relative;
-   top: -2050px;
-   left: 0px;
+   position: absolute;
+   margin-top: 100px;
+   margin-left: -1380px;
+   margin-right: 200px;
    width: 672px;
    height: 628px;
    transform: rotate(-1.94deg);
 }
+.image15 {
+    position: absolute;
+    width: 1432px;
+    height: 1519px;
+    margin-top: -1000px;
+    margin-left: -1500px;
+    opacity: 2;
+    z-index: 1;
+}
 .customersvoice h2 {
-    position: relative;
-   text-align: center;
-   top: -3630px;
+    width: 321px;
+   padding-left: 470px;
+   margin-top: 450px;
    font-family: 'Short Stack';
    font-size: 55px;
    font-weight: 400;
 }
-.image15 {
-    position: relative;
-    top: -3520px;
-    bottom: 0px;
-    width: 1432px;
-    height: 1520px;
-    opacity: 0.6;
-    z-index: 2;
-}
 .image10 {
     position: relative;
-    top: -3840px;
-    left: 200px;
+    margin-top: 42px;
+    margin-left: 170px;
     width: 485px;
     height: 343px;
 }
 .image11 {
     position: relative;
-    top: -3450px;
-    left: 80px;
+    margin-top: -170px;
+    margin-left: 500px;
     width: 677px;
     height: 576px;
 }
 .image12 {
     position: relative;
-    top: -3630px;
-    left: 660px;
+    margin-top: 0px;
+    margin-left: 550px;
     width: 485px;
     height: 343px;
 }
 .image13 {
     position: relative;
-    top: -3330px;
-    left: -450px;
+    margin-top: -300px;
+    margin-left: -30px;
     width: 677px;
     height: 576px;
     z-index: 1;
 }
 .image14 {
-    position: relative;
-    top: -5400px;
-    width: 1450px;
+    position: absolute;
+    margin-top: -1620px;
+    margin-left: -1200px;
+    width: 1440px;
     height: 1586px;
     opacity: 0.6;
     z-index: -2;
 }
 .Priceimage2 {
     position: relative;
-    top: -3220px;
-    left: 100px;
-    margin-bottom: 0px;
+    width: 1122px;
+    height: 529px;
+    margin-top: 6px;
+    margin-left: 90px;
 }
 .image16 {
     position: relative;
-    margin-top: -5600px;
-    margin-bottom: 7000px;
+    margin-top: -770px;
     width: 1458px;
     height: 1548px;
-    z-index: -3;
-    flex: 1 1 auto;
+    z-index: -1;
 }
-.image17 {
+footer img {
     position: absolute;
-    margin-top: -7700px;
+    margin-top: -700px;
+    padding-top: -200px;
+    display: block;
+    height: 650px;
+    width: 100%;
+}
+footer {
+    position: relative;
+    margin-bottom: 0px;
 }
