@@ -15,7 +15,7 @@ image {
         margin-right: 440px;
         padding-top: 31px;
         width: 494px;
-        height: auto;
+        height: 552px;
     }
     .image18.image17 {
         width: 100%;
@@ -24,7 +24,7 @@ image {
     .image15 {
         position: absolute;
         width: 1432px;
-        height: auto;
+        height: 1519px;
         margin-top: -1000px;
         margin-left: -1500px;
         opacity: 2;
@@ -58,7 +58,7 @@ image {
         margin-right: 440px;
         padding-top: 31px;
         width: 494px;
-        height: auto;
+        height: 552px;
     }
     .image18 {
         width: 100%;
@@ -98,7 +98,7 @@ image {
     }
     .image {
         width: 408px;
-        height: auto;
+        height: 443px;
     }
     .image1 {
         position: relative;
@@ -112,7 +112,7 @@ image {
         position: relative;
         margin-top: -170px;
         width: 1458px;
-        height: auto;
+        height: 1455px;
         z-index: 0;
     }
     .image3 {
@@ -124,11 +124,11 @@ image {
     }
     .image4 {
         position: relative;
-        margin-top: 42px;
-        margin-left: 258px;
-        margin-right: 15px;
+        margin-top: -1655px;
+        margin-left: 850px;
+        margin-right: 199px;
         width: 119px;
-        height: auto;
+        height: 235px;
     }
     .image5 {
         position: relative;
@@ -136,19 +136,22 @@ image {
         margin-bottom: 59px;
         margin-left: 110px;
         width: 144px;
-        height: auto;
+        height: 127px;
     }
     .Priceimage1 {
         position: relative;
         margin-top: 42px;
+        margin-left: 90px;
+        margin-right: 162px;
         width: 347px;
-        height: auto;
+        height: 187px;
     }
     .Priceimage2 {
         position: relative;
         width:347px;
         height: 187px;
-        margin-top: 42px;
+        margin-top: 6px;
+        margin-left: 90px;
     }
     .ProductFeatures h2 {
         font-size: 45px;
@@ -158,23 +161,23 @@ image {
     }
     .titl1 .titl2 .titl3 {
         width: 418px;
-        height: auto;
+        height: 97px;
     }
     .text7 .text8 .text9 {
         font-size: 16px;
     }
     .image6.image19.image20 .image7 .image8 {
         width: 80px;
-        height: auto;
+        height: 80px;
     }
     .image9 {
         width:505px;
-        height: auto;
+        height: 504px;
     }
     .image15 {
         position: absolute;
         width: 1432px;
-        height: auto;
+        height: 1519px;
         margin-top: -1000px;
         margin-left: -1500px;
         opacity: 2;
@@ -186,7 +189,7 @@ image {
     }
     .image11 .image13 {
         width: 460px;
-        height: auto;
+        height: 576px;
     }
 }
 @media(max-width: 375px) {
@@ -201,7 +204,7 @@ image {
         margin-right: 440px;
         padding-top: 31px;
         width: 494px;
-        height: auto;
+        height: 552px;
     }
     body {
         font-family:'Inter';
@@ -250,20 +253,20 @@ image {
     .image {
         position: relative;
         width: 132px;
-        height: auto;
+        height: 158px;
     }
     .image1 {
         position: relative;
         margin-top: 50px;
         width: 329px;
-        height: auto;
+        height: 39px;
         z-index: 1;
     }
     .image2 {
         position: relative;
         margin-top: -170px;
         width: 1458px;
-        height: auto;
+        height: 1455px;
         z-index: 0;
     }
     .image3 {
@@ -272,7 +275,7 @@ image {
         margin-left: 330px;
         padding-left: -62px;
         width: 144px;
-        height: auto;
+        height: 74px;
     }
     .image4 {
         position: relative;
@@ -280,7 +283,7 @@ image {
         margin-left: 258px;
         margin-right: 15px;
         width: 119px;
-        height: auto;
+        height: 235px;
     }
     .image5 {
         position: relative;
@@ -288,12 +291,11 @@ image {
         margin-bottom: 59px;
         margin-left: 110px;
         width: 48px;
-        height: auto;
+        height: 43px;
     }
     .Priceimage1 .Priceimage2 {
-        margin-top: 42px;
         width: 347px;
-        height: auto;
+        height: 187px;
         position: relative;
        
     }
@@ -305,25 +307,25 @@ image {
     }
     .titl1 .titl2 .titl3 {
         width: 161px;
-        height: auto;
+        height: 41px;
     }
     .text7 .text8 .text9 {
         font-size: 8px;
     }
     .image6.image19.image20 .image7 .image8 {
         width: 40px;
-        height: auto;
+        height: 40px;
     }
     .image9 {
         width: 195px;
-        height: auto;
+        height: 194px;
     }
     .image10 .image12 {
         width: 220px;
-        height: auto;
+        height: 122px;
     }
     .image11 .image13 {
         width: 184px;
-        height: auto;
+        height: 226px;
     }
 }
