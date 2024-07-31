@@ -1,10 +1,10 @@
-image {
+.image {
     width: 100%;
     border: none;
     height: auto;
 }
 @media(max-width: 1024px) {
-    image {
+    .image {
         max-width: 1024px;
     }
     .image {
@@ -47,7 +47,7 @@ image {
     }
 }
 @media(max-width: 480px) {
-    image {
+    .image {
        max-width: 480px;
     }
     .image {
@@ -127,7 +127,8 @@ image {
         margin-top: -1655px;
         margin-left: 850px;
         margin-right: 199px;
-        width: 378px;
+       width: 119px;
+        height: 235px;
     }
     .image5 {
         position: relative;
