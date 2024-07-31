@@ -1,10 +1,10 @@
-.image {
+image {
     width: 100%;
     border: none;
     height: auto;
 }
 @media(max-width: 1024px) {
-    .image {
+    image {
         max-width: 1024px;
     }
     .image {
@@ -47,7 +47,7 @@
     }
 }
 @media(max-width: 480px) {
-    .image {
+    image {
        max-width: 480px;
     }
     .image {
@@ -127,7 +127,7 @@
         margin-top: -1655px;
         margin-left: 850px;
         margin-right: 199px;
-       width: 119px;
+        width: 119px;
         height: 235px;
     }
     .image5 {
@@ -143,8 +143,15 @@
         margin-top: 42px;
         margin-left: 90px;
         margin-right: 162px;
-        width: 1122px;
-        height: 529px;
+        width: 347px;
+        height: 187px;
+    }
+    .Priceimage2 {
+        position: relative;
+        width:347px;
+        height: 187px;
+        margin-top: 6px;
+        margin-left: 90px;
     }
     .ProductFeatures h2 {
         font-size: 45px;
@@ -244,15 +251,15 @@
     color: #3a3a3a;  
     }
     .image {
+        position: relative;
         width: 132px;
         height: 158px;
     }
     .image1 {
         position: relative;
         margin-top: 50px;
-        margin-left: 200px;
-        width: 841px;
-        height: 133px;
+        width: 329px;
+        height: 39px;
         z-index: 1;
     }
     .image2 {
@@ -272,9 +279,9 @@
     }
     .image4 {
         position: relative;
-        margin-top: -1655px;
-        margin-left: 850px;
-        margin-right: 199px;
+        margin-top: 42px;
+        margin-left: 258px;
+        margin-right: 15px;
         width: 119px;
         height: 235px;
     }
@@ -290,9 +297,7 @@
         width: 347px;
         height: 187px;
         position: relative;
-        margin-top: 42px;
-        margin-left: 90px;
-        margin-right: 162px;
+       
     }
     .ProductFeatures h2 {
         font-size: 18px;
