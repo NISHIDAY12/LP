@@ -124,9 +124,9 @@ image {
     }
     .image4 {
         position: relative;
-        margin-top: -1655px;
-        margin-left: 850px;
-        margin-right: 199px;
+        margin-top: 42px;
+        margin-left: 258px;
+        margin-right: 15px;
         width: 119px;
         height: 235px;
     }
@@ -141,8 +141,6 @@ image {
     .Priceimage1 {
         position: relative;
         margin-top: 42px;
-        margin-left: 90px;
-        margin-right: 162px;
         width: 347px;
         height: 187px;
     }
@@ -150,8 +148,7 @@ image {
         position: relative;
         width:347px;
         height: 187px;
-        margin-top: 6px;
-        margin-left: 90px;
+        margin-top: 42px;
     }
     .ProductFeatures h2 {
         font-size: 45px;
@@ -294,6 +291,7 @@ image {
         height: 43px;
     }
     .Priceimage1 .Priceimage2 {
+        margin-top: 42px;
         width: 347px;
         height: 187px;
         position: relative;
