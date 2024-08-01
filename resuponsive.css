@@ -85,6 +85,9 @@ image {
     .text1 .text2 .text3 .text4 .text5 {
         font-size: 8px;
     }
+    .text6 {
+        font-size: 8px;
+    } 
     .main p {
        font-family: 'Inter';
        font-size: 16px;
@@ -150,8 +153,10 @@ image {
     .Priceimage1 .Priceimage2 {
         width: 347px;
         height: 187px;
-        position: relative;
-       
+        position: relative;   
+    }
+    ..Priceimage1 {
+        margin-top: 10px;
     }
     .ProductFeatures h2 {
         font-size: 18px;
